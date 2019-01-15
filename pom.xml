@@ -11,7 +11,7 @@
     <groupId>edu.neu.cs4500</groupId>
     <artifactId>cs4500-sp19s3-kakade-o</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>cs4500-sp19s3-kakade-o</name>
     <description>Demo project for Spring Boot</description>
 
