@@ -8,7 +8,7 @@ public class User {
     private String lastName;
 
     // constructor
-    public User(){ };
+    public User(){ }
 
     public User(Integer id, String username, String password, String firstName, String lastName) {
         super();
