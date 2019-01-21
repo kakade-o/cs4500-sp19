@@ -1,4 +1,4 @@
-package edu.neu.cs4500.cs4500sp19s3kakadeo.controllers;
+package edu.neu.cs4500.cs4500sp19s3kakadeo.models;
 
 public class HelloObject {
     public HelloObject() {
